@@ -12,14 +12,14 @@ I am Shobha - I work as a Product Analyst at Microsoft. I love digging into data
 # Specialities🥇
 
 ## Analytics
-> Product analytics, setting up KPI metrics, user engagement, product growth, user funnels, churn/retention analysis, marketing analytics, user segmentation, product strategy, insights, MIS reporting, multi-channel campaigning, user experience 
+> Product analytics, metrics development, user engagement, product growth, user funnels, churn/retention analysis, marketing analytics, user segmentation, product strategy, insights, MIS reporting, multi-channel campaigning, user experience, experimentation 
 ## Data Visualisation
 >PowerBI, Tableau, SAP BusinessObjects
 ## Languages
 > SQL, Python 3, R, SCOPE, Perl, Unix scripting, HTML5, CSS (Basics)
 ## Data Engineering
 >Data pipelines, ETL, Informatica, Pentaho, TIBCO Business Works
-Data Science
+## Data Science
 > Machine Learning, Predictive Modelling, NLP, Statistics, A/B Testing
 ## Databases
 > Microsoft SQLserver, PostGreSQL, Teradata, Oracle, Sybase IQ, DB2, MongoDB, CosmosDB
@@ -29,9 +29,7 @@ Data Science
 # Currently Learning🎯
 >👉 Building recommender systems
 
->👉 Front End Engineering (Typescript, Flux)
-
->👉 ML Deployment over Azure Pipelines
+>👉 Julia Programming Language for analytics
 
 
 # Looking to Collaborate on 👯
