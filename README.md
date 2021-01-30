@@ -7,7 +7,7 @@
 ---
 ## Hello 👋
 
-I am Shobha - I work as a Product Analyst at Microsoft. I love digging into data to solve the mysteries of user pain points and how to improve their product experience. I have 9+ years of experience working in the data ecosystem - data analyst, data engineer, business intelligence engineer, product analyst - you name it!
+I am Shobha - I work as a Senior Data Analyst with Walmart. Previously I worked as a product analyst at Microsoft. I love digging into data to solve the mysteries of user pain points and how to improve their product experience. I have 9+ years of experience working in the data ecosystem - data analyst, data engineer, business intelligence engineer, product analyst - you name it!
 
 # Specialities🥇
 
