@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhagwatshobha@gmail.com)](bhagwatshobha@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/shobhab)](https://www.kaggle.com/shobhab)
 [![Tableau Badge](https://img.shields.io/badge/-Tableau-white?style=flat-square&logo=Tableau&logoColor=red&link=https://public.tableau.com/profile/shobhabhagwat#!/)](https://public.tableau.com/profile/shobhabhagwat#!/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=black&link=https://imshobhabhagwat.medium.com/)](https://imshobhabhagwat.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-white?style=flat-square&logo=Medium&logoColor=black&link=https://imshobhabhagwat.medium.com/)](https://imshobhabhagwat.medium.com/)
 
 ---
 ## Hello 👋
