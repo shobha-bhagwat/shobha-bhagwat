@@ -3,7 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shobha-bhagwat-6a463357/)](https://www.linkedin.com/in/shobha-bhagwat-6a463357/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhagwatshobha@gmail.com)](bhagwatshobha@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/shobhab)](https://www.kaggle.com/shobhab)
-[![Kaggle Badge](https://img.shields.io/badge/-Tableau-white?style=flat-square&logo=Tableau&logoColor=red&link=https://public.tableau.com/profile/shobhabhagwat#!/)](https://public.tableau.com/profile/shobhabhagwat#!/)
+[![Tableau Badge](https://img.shields.io/badge/-Tableau-white?style=flat-square&logo=Tableau&logoColor=red&link=https://public.tableau.com/profile/shobhabhagwat#!/)](https://public.tableau.com/profile/shobhabhagwat#!/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-white?style=flat-square&logo=Medium&logoColor=white&link=https://imshobhabhagwat.medium.com/)](https://imshobhabhagwat.medium.com/)
 
 ---
 ## Hello 👋
