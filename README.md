@@ -9,7 +9,7 @@
 ---
 ## Hello 👋
 
-I am Shobha - I work as a Senior Data Analyst with Walmart. Previously I worked as a product analyst at Microsoft. I love digging into data to solve the mysteries of user pain points and how to improve their product experience. I have 9+ years of experience working in the data ecosystem - data analyst, data engineer, business intelligence engineer, product analyst - you name it!
+I am Shobha - I lead the Transport Data Team at Gojek. Previously I worked as a product analyst at Microsoft. I love digging into data to solve the mysteries of user pain points and how to improve their product experience. I have 9+ years of experience working in the data ecosystem - data analyst, data engineer, business intelligence engineer, product analyst - you name it!
 
 # Specialities🥇
 
@@ -40,7 +40,7 @@ I am Shobha - I work as a Senior Data Analyst with Walmart. Previously I worked 
 > I’m looking to collaborate on solving interesting data problems.   
 
 # ASK ME ABOUT 💬
-> Ask me about data, analytics, experimentation, product growth and engagement.
+> Ask me about data science, data engineering, analytics, experimentation, product growth and engagement.
 
 
 # ⚡ Quote ⚡: 
